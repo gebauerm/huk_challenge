@@ -5,5 +5,7 @@ install_requires = [
         "seaborn",
         "matplotlib",
         "ipykernel",
-        "pandas"
+        "pandas",
+        "nltk",
+        "langdetect"
         ],
