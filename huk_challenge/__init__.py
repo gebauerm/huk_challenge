@@ -7,5 +7,6 @@ install_requires = [
         "ipykernel",
         "pandas",
         "nltk",
-        "langdetect"
+        "langdetect",
+        "emoji"
         ],
