@@ -20,7 +20,8 @@ class SentimentPreprocessor:
         self.target_mapping = {
             "Negative": -1,
             "Neutral": 0,
-            "Positive": 1
+            "Positive": 1,
+            "Irrelevant": 99
         }
 
     def preprocess_tweet(self, tweet) -> str:

@@ -8,5 +8,6 @@ install_requires = [
         "pandas",
         "nltk",
         "langdetect",
-        "emoji"
+        "emoji",
+        "flair"
         ],
